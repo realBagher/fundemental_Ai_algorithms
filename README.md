@@ -1,0 +1,2 @@
+# fundemental_Ai_algorithms
+Implementation of fundamental Artificial Intelligence Algorithms
